@@ -35,9 +35,9 @@ body {
 /*****/
 .content
 {
-	background:url(../images/苑飞.jpg) no-repeat;
+	background:url(../images/苑飞.jpg) no-repeat center;
 	background-size: 100%;
-	background-size:cover;
+	background-size: cover;
 }
 .alph{
 	background-color: rgba(255,255,255,0.5);

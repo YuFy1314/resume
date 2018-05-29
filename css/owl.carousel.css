@@ -94,7 +94,7 @@
 }
 .group_1_text p
 {
-	color:#666666;
+	color:#333;
 	font-size: 1em;
 	line-height: 1.9em;
 }
@@ -102,14 +102,14 @@
 .group_2 {
 	padding: 5em 0em 1em 0em;
 }
-.group_2_img1
+/*.group_2_img1
 {
 	float:left;
 }
 .group_2_img1 img
 {
 	width:100%;
-}
+}*/
 .group_2_items
 {
 	padding-top: 5em;
@@ -122,7 +122,7 @@
 {
 	padding: 3em 0em;
 	float: right;
-	width:25%;
+	width:100%;
 }
 .group_2_text2 h3
 {
@@ -135,7 +135,7 @@
 }
 .group_2_text2 p
 {
-	color:#666;
+	color:#333;
 	font-size: 1em;
 	padding-bottom: 10px;
 }
@@ -536,9 +536,9 @@
 	.group_2_items {
 	padding-top: 1em;
 	}
-	.group_2_img1 {
+	/*.group_2_img1 {
 	width: 62%;
-	}
+	}*/
 	.group_2 {
 	padding: 3em 0em 1em 0em;
 	}
@@ -620,7 +620,7 @@
 	}
 	.group_2_text2
 	{
-		width: 30%;
+		width: 100%;
 	}
 	.button_2
 	{
@@ -648,11 +648,11 @@
 	margin: 0em;
 	padding: 0em;
 	}
-	.group_2_img1 {
+	/*.group_2_img1 {
 	width: 70%;
 	margin: 0 auto;
 	float: none;
-	}
+	}*/
 	.group_2_text2 {
 	width: 100%;
 	float: none;
@@ -729,11 +729,11 @@
 	.group_1_img .fontend {
 	font-size: 1.15em;
 	}
-	.group_2_img1 {
+	/*.group_2_img1 {
 	width: 100%;
 	margin: 0 auto;
 	float: none;
-	}
+	}*/
 	.chart-content {
 	margin: -1.5em 0em;
 	}
