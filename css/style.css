@@ -145,6 +145,10 @@ body {
     border-color: rgba(255,255,255,0.5);
 }
 
+.group_2_items h4 {
+	color: #27dd16;
+}
+
 /*-------------Timeline-----*/
 .exper {
 padding: 4em 0em;
