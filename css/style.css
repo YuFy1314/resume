@@ -45,6 +45,9 @@ body {
 	width: 100%;
 	padding: 6em 0;
 }
+.content .alph {
+	padding: 0;
+}
 .fadeInLeft{
 	font-weight: bold;
 }
