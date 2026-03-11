@@ -62,7 +62,7 @@
 	-o-border-radius: 50px;
 }
 .group_1_img .ui {
-	color: #292929;
+	color: #cecac3;
 	font-size: 2.2em;
 	font-weight: bold;
 }
@@ -86,14 +86,12 @@
 	margin: 2% 0% 3% 4%;
 }
 .group_1_text h3 {
-	color: #333;
 	font-size: 1.6em;
 	font-weight: 900;
 	padding-bottom: 25px;
 }
 .group_1_text p
 {
-	color:#333;
 	font-size: 1em;
 	line-height: 1.9em;
 }
@@ -119,13 +117,13 @@
 }
 .group_2_text2
 {
+	color: #333739;
 	padding: 3em 0em;
 	float: right;
 	width:100%;
 }
 .group_2_text2 h3
 {
-	color: #333;
 	font-size: 1.5em;
 	font-weight: 600;
 	padding-bottom: 10px;
@@ -134,7 +132,6 @@
 }
 .group_2_text2 p
 {
-	color:#333;
 	font-size: 1em;
 	padding-bottom: 10px;
 }
