@@ -46,7 +46,9 @@
 .group_1
 {
 	padding: 2em 0em;
-	background: #222;
+	margin: 10px 0;
+    background: url(../images/header-bg.jpg) no-repeat center fixed;
+    background-size: cover;
 }
 .group_1_img
 {
@@ -181,7 +183,9 @@
 /*****/
 .group_3
 {
-	background: #222;
+	margin: 10px 0;
+    background: url(../images/header-bg.jpg) no-repeat center fixed;
+    background-size: cover;
 	padding: 6em 0em 2em 0em;
 }
 .group_3_text
