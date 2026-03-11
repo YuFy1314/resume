@@ -42,7 +42,11 @@
 
 }
 .flexslider .slides img {width: 100%; display: block;}
-
+.alph{
+	background-color: rgba(24, 26, 27, 0.5);
+	position: relative;
+	width: 100%;
+}
 .group_1
 {
 	padding: 2em 0em;
