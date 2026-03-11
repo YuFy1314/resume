@@ -49,7 +49,6 @@
 }
 .group_1
 {
-	padding: 2em 0em;
 	margin: 10px 0;
     background: url(../images/header-bg.jpg) no-repeat center fixed;
     background-size: cover;
@@ -190,7 +189,6 @@
 	margin: 10px 0;
     background: url(../images/header-bg.jpg) no-repeat center fixed;
     background-size: cover;
-	padding: 6em 0em 2em 0em;
 }
 .group_3_text
 {
