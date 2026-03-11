@@ -46,7 +46,7 @@
 .group_1
 {
 	padding: 2em 0em;
-	background: #F4F4F4;
+	background: #222;
 }
 .group_1_img
 {
@@ -117,7 +117,7 @@
 }
 .group_2_text2
 {
-	color: #333739;
+	color: #eef0f1;
 	padding: 3em 0em;
 	float: right;
 	width:100%;
@@ -181,7 +181,7 @@
 /*****/
 .group_3
 {
-	background: #F4F4F4;
+	background: #222;
 	padding: 6em 0em 2em 0em;
 }
 .group_3_text
