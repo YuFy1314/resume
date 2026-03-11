@@ -35,7 +35,7 @@ body {
 /*****/
 .content
 {
-	background:url(../images/header-bg.jpg) no-repeat center !important;
+	background:url(../images/header-bg.jpg) no-repeat center cover !important;
 	/* background:url(../images/苑飞.jpg) no-repeat center; */
 	background-size: 100%;
 	background-size: cover;
